@@ -11,6 +11,17 @@ body{
   margin-left: 200px;
 }
 
+.HobbiesAndInterests{
+  margin-top: auto;
+  margin-left: 700px;
+  border-width: medium;
+  border-left: 1px;
+  border-right: 1px;
+  background-color: #000066;
+  height: 250px;
+  text-color: white;
+}
+
 .Skills{
   margin-top: auto;
   margin-left: 200px;
