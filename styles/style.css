@@ -1,8 +1,19 @@
 body{
   margin:90% ;
+  background-color: blue;
   }
 .Headertext{
   text-align: center;
+}
+
+.Education{
+  margin-top: auto;
+  margin-left: 200px;
+}
+
+.Skills{
+  margin-top: auto;
+  margin-left: 200px;
 }
 
 a:link {color: black}
